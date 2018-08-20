@@ -6,5 +6,8 @@
     "Saitcan TAKILAN <sait@kodanka.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/saitcantakilan/chatApp"
+  "homepage": "https://github.com/saitcantakilan/chatApp",
+  "dependencies": {
+    "angular": "^1.7.3"
+  }
 }
